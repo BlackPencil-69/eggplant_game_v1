@@ -9,6 +9,7 @@
 Гра була написана за допомогою ШІ ChatGPT (30% коду) та Claude (70% коду)
 
 Скріншоти з гри:
+
 <img width="601" alt="screenshot1" src="https://github.com/user-attachments/assets/d4b5975b-7fd3-4559-9743-a2b246067f2d" />
 <img width="601" alt="screenshot2" src="https://github.com/user-attachments/assets/923933aa-c65c-4ce7-b06d-541012dd5c05" />
 
